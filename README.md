@@ -40,6 +40,4 @@ A custom-built WordPress website for a wellness brand, designed to create a calm
 ![Homepage](IMG_3239.jpeg)
 ![Mobile View](IMG_3248.jpeg)
 
-## 🎥 Live Preview
-PremiumIn-HomeCareStaffing_HarmoniqLivingMetroAtlanta-harmoniqliving.org-Github-ezgif.com-optimize.gif
 
