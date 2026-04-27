@@ -39,3 +39,7 @@ A custom-built WordPress website for a wellness brand, designed to create a calm
 ## 📸 Screenshots
 ![Homepage](IMG_3239.jpeg)
 ![Mobile View](IMG_3248.jpeg)
+
+## 🎥 Live Preview
+IMG_3352.gif
+
