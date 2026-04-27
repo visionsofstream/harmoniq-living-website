@@ -2,7 +2,7 @@
 
 🌐 Live Site: https://harmoniqliving.org
 
-A custom-built WordPress website for a wellness brand, designed to create a calm, modern user experience while maintaining performance and accessibility.
+A custom-built WordPress website for a wellness brand, designed to deliver a calm, modern user experience with clean visuals and smooth navigation.
 
 ## 💼 My Role
 - Frontend development
@@ -35,6 +35,12 @@ A custom-built WordPress website for a wellness brand, designed to create a calm
 - Ensured consistent design across devices
 - Optimized layout for better user experience
 - Balanced visuals with performance
+
+- ## 🚀 Future Improvements
+- Backend integration for dynamic content
+- Performance optimization
+- Additional interactive features
+
 
 ## 📸 Screenshots
 ![Homepage](IMG_3239.jpeg)
