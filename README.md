@@ -23,4 +23,5 @@ A responsive WordPress website built for a lifestyle brand.
 - JavaScript
 
 ## 📸 Screenshots
-(Add screenshots here)
+![Homepage](IMG_3239)
+![Mobile View](IMG_3248)
